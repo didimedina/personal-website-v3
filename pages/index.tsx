@@ -3,9 +3,9 @@ import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 
 export default function Home() {
   return (
-    <div>
+    <div className="w-auto h-screen flex justify-center items-center grow-0 bg-gray-300">
       <DropdownMenu.Root>
-        <DropdownMenu.Trigger>Settings</DropdownMenu.Trigger>
+        <DropdownMenu.Trigger className="h-8 grow-0">Settings</DropdownMenu.Trigger>
 
         <DropdownMenu.Content>
           <DropdownMenu.Item>Item One</DropdownMenu.Item>
