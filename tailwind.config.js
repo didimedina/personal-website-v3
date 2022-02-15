@@ -17,9 +17,20 @@ module.exports = {
       ...radixColors.grass,
       ...radixColors.orange,
       ...radixColors.yellow,
+      dark: {
+        ...radixColors.slateDark,
+        ...radixColors.redDark,
+        ...radixColors.pinkDark,
+        ...radixColors.purpleDark,
+        ...radixColors.indigoDark,
+        ...radixColors.grassDark,
+        ...radixColors.orangeDark,
+        ...radixColors.yellowDark,
+      }
 
     },
     extend: {},
   },
   plugins: [],
 }
+
