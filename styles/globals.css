@@ -15,7 +15,7 @@ a {
   box-sizing: border-box;
 }
 
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -48,4 +48,4 @@ a {
     --slate11: rgb(155, 161, 166);
     --slate12: rgb(236, 237, 238);
   }
-}
+} */
