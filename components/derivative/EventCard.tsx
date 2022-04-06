@@ -1,5 +1,4 @@
 import { styled } from '@stitches/react'
-import { createBrotliCompress } from 'zlib'
 
 export const StyledEventCard = styled('div' ,{
     width: '120px',

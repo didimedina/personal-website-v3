@@ -1,4 +1,4 @@
-import * as Cal from '../components/Cal'
+import * as Cal from '../components/derivative/Cal'
 import { css, styled } from '@stitches/react'
 
 // function onPan(event, info: any) {
